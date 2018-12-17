@@ -1,0 +1,1 @@
+This is shortener url build for meteor and react;
